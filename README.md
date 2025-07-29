@@ -1,2 +1,5 @@
 # LinkedIn_demo
-Finetuning Llama 3.2 model
+Fine-tuned model to accompany LinkedIn article:
+[link here]
+
+Requires Hugging Face token to run.
